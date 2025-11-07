@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+
+div{
+    margin-left: 50%;
+    margin-top: 30%;
+    text-align: center;
+}
+img{
+    border: 10px solid white;
+}
+h1{
+    color: white;
+    font-family: 'Libre Baskerville',cursive;
+    
+}
+h3{
+    color: white;
+    
+}
