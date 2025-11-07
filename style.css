@@ -3,9 +3,10 @@ html{
 }
 
 div{
-    margin-left: 50%;
+    
     margin-top: 30%;
-    text-align: center;
+    align-content: center;
+    
 }
 img{
     border: 10px solid white;
